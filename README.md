@@ -12,8 +12,8 @@ Mentors Names: **Insert Professional Mentor Names**
 
 Project Code Repository Links
 
-- [Frontend Repo Link]()
-- [Backend Repo Link]()
+- [Frontend Repo Link](https://github.com/BEF-capstone/client)
+- [Backend Repo Link](https://github.com/BEF-capstone/server)
 
 ## Project Overview
 
