@@ -144,7 +144,9 @@ Acceptance Criteria: Given that I am a registered user who is logged in, I shoul
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+[Wireframe](https://www.figma.com/file/1Swi7rBRf76CIC2GUHOtJa/blessingadomakoh1's-team-library?type=design&node-id=0%3A1&mode=design&t=7EkVty2XTytmL9ff-1)
+
+Project Design Flow
 
 ## Data Model
 
