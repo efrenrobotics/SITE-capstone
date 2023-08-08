@@ -1,6 +1,6 @@
 # Reflection #3
 
-Pod Members: **Add Pod Members Names**
+Pod Members: Blessing Adomakoh, Efren Mendoza, Faaizah Afoda
 
 ## Reflection Questions
 
