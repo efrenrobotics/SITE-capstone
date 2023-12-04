@@ -22,7 +22,7 @@ preferences as the compass and your available
 ingredients as the map, we steer you towards the
 perfect dish.
 
-Deployment Website: (https://chefcompass-2940f.firebaseapp.com/)https://chefcompass-2940f.firebaseapp.com/
+Deployment Website: https://chefcompass-2940f.firebaseapp.com/)https://chefcompass-2940f.firebaseapp.com/
 <div>
     <a href="https://www.loom.com/share/9d9487184a0c4d0cbb2226e7279ae0e1">
       <p>Chef Compass - Demo - Watch Video</p>
