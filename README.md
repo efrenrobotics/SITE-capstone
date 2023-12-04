@@ -1,14 +1,10 @@
-📝 `NOTE` Use this template repo to initialize the contents of your group's capstone repo project. As you work on your assignment over the course of the week, update the appropriate repo deliverables. All project planning should be included in the planning directory. (🚫 Remove this paragraph before submitting your assignment.)
-
-# SITE Capstone Project
+# CHEF COMPASS
 
 SITE Course Year: **2023**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce**
 
-Team Member Names:**Insert Team Member Names**
-
-Mentors Names: **Insert Professional Mentor Names**
+Team Member Names: Efren Mendoza Enriquez, Faaizah Afoda, Blessing Adomakoh 
 
 Project Code Repository Links
 
@@ -17,10 +13,21 @@ Project Code Repository Links
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are.
+At Chef Compass, our mission is to empower
+aspiring and seasoned cooks alike on their
+culinary journeys. We combine the art of guiding
+and Ai powered technologies to create a seamless
+experience. By harnessing your unique
+preferences as the compass and your available
+ingredients as the map, we steer you towards the
+perfect dish.
 
-Deployment Website: **Add Link to Deployed Project**
-
-### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
+Deployment Website: (https://chefcompass-2940f.firebaseapp.com/)https://chefcompass-2940f.firebaseapp.com/
+<div>
+    <a href="https://www.loom.com/share/9d9487184a0c4d0cbb2226e7279ae0e1">
+      <p>Chef Compass - Demo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9d9487184a0c4d0cbb2226e7279ae0e1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9d9487184a0c4d0cbb2226e7279ae0e1-with-play.gif">
+    </a>
+  </div>
